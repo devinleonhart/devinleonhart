@@ -12,3 +12,4 @@ Typescript & React
 
 📫 How to reach me ...  
 devinleonhart@fastmail.com
+[LinkedIn](https://www.linkedin.com/in/devin-leonhart-b5b6989b/)
