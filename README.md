@@ -4,9 +4,9 @@ I’m currently working with [Ridehealth](https://www.ridehealth.com/) to improv
 
 ## 🌱  Stuff I'm using at RH
 
-TypeScript + React
-Clojure
-ClojureScript
+- TypeScript + React
+- Clojure
+- ClojureScript
 
 ## 📫  Contact Info
 
