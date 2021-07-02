@@ -7,8 +7,3 @@ I’m currently working with [Ridehealth](https://www.ridehealth.com/) to improv
 - TypeScript + React
 - Clojure
 - ClojureScript
-
-## 📫  Contact Info
-
-devinleonhart@fastmail.com  
-[LinkedIn](https://www.linkedin.com/in/devin-leonhart-b5b6989b/)
