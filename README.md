@@ -1,6 +1,6 @@
 👋 Hi, I’m @devinleonhart
 
-I’m currently working with [Ridehealth](https://www.ridehealth.com/) to modernize transportation services and get people to the healthcare they need.  
+I’m currently working with [Ridehealth](https://www.ridehealth.com/) to improve the patient transportation experience and get people to the healthcare they need.  
 Typescript & React
 
 🌱 I’m currently learning ...  
