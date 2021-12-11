@@ -1,9 +1,11 @@
 ## 👋  Hi, I’m @devinleonhart
 
-I’m currently working with [Ridehealth](https://www.ridehealth.com/) to improve the patient transportation experience and get people to the healthcare they need.  
+I’m currently looking for work! Drop me a line on [LinkedIn](https://www.linkedin.com/in/devin-leonhart-b5b6989b/) if you'd like to chat.
 
-## 🌱  Stuff I'm using at RH
+## My preferred technologies. 
 
-- TypeScript + React
-- Clojure
-- ClojureScript
+- TypeScript
+- NodeJS
+- ReactJS
+- VueJS
+- ExpressJS
