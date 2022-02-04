@@ -7,5 +7,5 @@ I’m currently looking for work! Drop me a line on [LinkedIn](https://www.linke
 - TypeScript
 - NodeJS
 - ReactJS
-- VueJS
+- VueJS / NuxtJS
 - ExpressJS
